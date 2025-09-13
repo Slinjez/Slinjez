@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Slinjez
-- 👀 I’m interested in IONIC
-- 🌱 I’m currently learning Angular and IONIC 
 - 📫 How to reach me +254712577777
 
 <!---
